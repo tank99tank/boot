@@ -11,12 +11,13 @@
     </parent>
 
     <packaging>pom</packaging>
-    <groupId>com.tank99tank.boot</groupId>
+    <groupId>org.uushang.boot</groupId>
     <artifactId>boot-parent</artifactId>
     <version>2.3.0</version>
     <name>Boot Parent</name>
 
     <modules>
+    	<module>boot-authority</module>
     </modules>
 
     <properties>
